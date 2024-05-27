@@ -9,7 +9,7 @@ cách chạy dự án
 
 install môi trường nodejs, pgadmin(postgres)
 
-sau khi intall chạy dòng lệnh
+sau khi install chạy dòng lệnh
 
 npm i
 
