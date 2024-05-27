@@ -1,9 +1,4 @@
-# cnpm3
-
-"# cnpm"
-"# cnpm2"
-"# cnpm_reserved"
-"# cnpm_final"
+# cnpm_final"
 
 cách chạy dự án
 
